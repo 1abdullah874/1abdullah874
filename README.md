@@ -10,6 +10,10 @@ From biometric authentication systems to real-time computer vision —
 if it lives at the intersection of **code and security**, I'm building it.
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=1abdullah874&color=00ff8c&style=flat-square&label=profile+views" />
+</p>
+---
 
 ## 🛠️ What I Work With
 
@@ -60,6 +64,4 @@ if it lives at the intersection of **code and security**, I'm building it.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1abdullah874&color=00ff8c&style=flat-square&label=profile+views" />
-</p>
+
