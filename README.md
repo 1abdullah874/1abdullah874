@@ -2,7 +2,7 @@
 
 ```bash
 $ whoami
-> Cybersecurity Engineer | Tool Builder | Python Developer
+> Cybersecurity Engineer | Tool Builder 
 ```
 
 I build security tools that make technology harder to break into.
